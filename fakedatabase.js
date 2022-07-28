@@ -1,4 +1,4 @@
-[
+module.exports =[
   {
     "id": "ac2668fd-f4b5-4175-8956-d8f1920f1324",
     "name": "Blaze Dare",
